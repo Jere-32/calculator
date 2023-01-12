@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 310px;
+    background-color: bisque;
+}
+.btn {
+    height: 60px;
+    width: 60px;
+    margin: 5px;
+}
+.operator{
+    margin-right:0;
+}
+.display {
+    display: flex;
+    border-color: black;
+    height: 60px;
+    width: 282px;
+    background-color: black;
+    color:white;
+    margin-right: 0;
+    align-items: center;
+    justify-content: center;
+}
